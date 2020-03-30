@@ -9,7 +9,7 @@ purposes.
    ```git clone <https://github.com/iftikhar1995/LearningPython.git>```
 
 # Project Structure Overview
-- Goto **Python-DesignPatterns** package. This package include following catagories of design patterns implemented in 
+- The folder contains following catagories of design patterns implemented in 
 python:
    - **Creational**\
       These design patterns are all about class instantiation.
