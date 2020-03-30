@@ -1,7 +1,7 @@
-from DesignPatterns.Builder.CarBuilder.car_director import CarDirector
-from DesignPatterns.Builder.CarBuilder.jeep import Jeep
-from DesignPatterns.Builder.ComputerBuilder.hp_probook import HPProBook
-from DesignPatterns.Builder.ComputerBuilder.computer_director import ComputerDirector
+from Creational.Builder.CarBuilder.car_director import CarDirector
+from Creational.Builder.CarBuilder.jeep import Jeep
+from Creational.Builder.ComputerBuilder.computer_director import ComputerDirector
+from Creational.Builder.ComputerBuilder.hp_probook import HPProBook
 
 
 class BuilderPatternManager:

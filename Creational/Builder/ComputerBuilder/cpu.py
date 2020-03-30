@@ -1,6 +1,6 @@
-from DesignPatterns.Builder.ComputerBuilder.SubObjects.hard_disk import HardDisk
-from DesignPatterns.Builder.ComputerBuilder.SubObjects.processor import Processor
-from DesignPatterns.Builder.ComputerBuilder.SubObjects.ram import RAM
+from Creational.Builder.ComputerBuilder.SubObjects.hard_disk import HardDisk
+from Creational.Builder.ComputerBuilder.SubObjects.processor import Processor
+from Creational.Builder.ComputerBuilder.SubObjects.ram import RAM
 
 
 class CPU:

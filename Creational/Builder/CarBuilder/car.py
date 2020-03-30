@@ -1,6 +1,6 @@
-from DesignPatterns.Builder.CarBuilder.SubObjects.body import Body
-from DesignPatterns.Builder.CarBuilder.SubObjects.engine import Engine
-from DesignPatterns.Builder.CarBuilder.SubObjects.wheel import Wheel
+from Creational.Builder.CarBuilder.SubObjects.body import Body
+from Creational.Builder.CarBuilder.SubObjects.engine import Engine
+from Creational.Builder.CarBuilder.SubObjects.wheel import Wheel
 
 
 class Car:

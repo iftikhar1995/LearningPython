@@ -1,12 +1,12 @@
 from abc import ABC
 from abc import abstractmethod
 
-from DesignPatterns.Builder.ComputerBuilder.SubObjects.hard_disk import HardDisk
-from DesignPatterns.Builder.ComputerBuilder.SubObjects.keyboard import KeyBoard
-from DesignPatterns.Builder.ComputerBuilder.SubObjects.monitor import Monitor
-from DesignPatterns.Builder.ComputerBuilder.SubObjects.mouse import Mouse
-from DesignPatterns.Builder.ComputerBuilder.SubObjects.processor import Processor
-from DesignPatterns.Builder.ComputerBuilder.SubObjects.ram import RAM
+from Creational.Builder.ComputerBuilder.SubObjects.hard_disk import HardDisk
+from Creational.Builder.ComputerBuilder.SubObjects.keyboard import KeyBoard
+from Creational.Builder.ComputerBuilder.SubObjects.monitor import Monitor
+from Creational.Builder.ComputerBuilder.SubObjects.mouse import Mouse
+from Creational.Builder.ComputerBuilder.SubObjects.processor import Processor
+from Creational.Builder.ComputerBuilder.SubObjects.ram import RAM
 
 
 class IBuilder(ABC):

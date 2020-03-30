@@ -1,5 +1,5 @@
-from DesignPatterns.Builder.ComputerBuilder.abstract_builder import IBuilder
-from DesignPatterns.Builder.ComputerBuilder.computer import Computer
+from Creational.Builder.ComputerBuilder.abstract_builder import IBuilder
+from Creational.Builder.ComputerBuilder.computer import Computer
 
 
 class ComputerDirector:

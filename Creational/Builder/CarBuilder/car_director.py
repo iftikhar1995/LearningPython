@@ -1,5 +1,5 @@
-from DesignPatterns.Builder.CarBuilder.abstract_builder import IBuilder
-from DesignPatterns.Builder.CarBuilder.car import Car
+from Creational.Builder.CarBuilder.abstract_builder import IBuilder
+from Creational.Builder.CarBuilder.car import Car
 
 
 class CarDirector:

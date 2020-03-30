@@ -1,7 +1,7 @@
-from DesignPatterns.Builder.CarBuilder.abstract_builder import IBuilder
-from DesignPatterns.Builder.CarBuilder.SubObjects.body import Body
-from DesignPatterns.Builder.CarBuilder.SubObjects.wheel import Wheel
-from DesignPatterns.Builder.CarBuilder.SubObjects.engine import Engine
+from Creational.Builder.CarBuilder.abstract_builder import IBuilder
+from Creational.Builder.CarBuilder.SubObjects.body import Body
+from Creational.Builder.CarBuilder.SubObjects.wheel import Wheel
+from Creational.Builder.CarBuilder.SubObjects.engine import Engine
 
 
 class Jeep(IBuilder):
